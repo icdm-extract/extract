@@ -5,7 +5,7 @@
 
 ### Short version
 
-We take in a multivariate time series containing some unknown repeating pattern and return all the places the pattern happens.
+We take in a multivariate time series containing some unknown repeating pattern and return all the places where the pattern happens.
 
 ### Long version
 
